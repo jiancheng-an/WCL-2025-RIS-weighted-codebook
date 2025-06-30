@@ -18,14 +18,9 @@ This code provides the source files and generation codes of all the figure in th
 
 # Figure List
 * Fig. 1.  An RIS-assisted point-to-point MIMO communication system.
-* Fig. 2. The considered SIM-aided array system.
-* Fig. 3. Top and front views of the considered SIM-based systems.
-* Fig. 4. The proposed SIM-based DOA estimation protocol, where different colors refer to non-overlapping spatial frequency bins associated with different snapshots. This is achieved by adjusting the phase shifts of the input metasurface layer. The vertical and horizontal lines correspond to $\psi_x$ and $\psi_y$, respectively.
-* Tab. I. Normalized loss function (in dB) based on a (2, 2) grid points
-* Tab. II. Normalized loss function (in dB) based on a (4, 4) grid points
-* Fig. 5 Convergence behavior of the proposed gradient descent algorithm based on a (2, 2) grid points
-  * Fig. 5(a) Normalized loss function $\mathcal{L}$ versus the number of iterations
-  * Fig. 5(b) Normalized loss function $\mathcal{L}$ versus the decay parameter $\zeta$
-* Fig. 6 Convergence behavior of the proposed gradient descent algorithm based on a (4, 4) grid points
-  * Fig. 6(a) Normalized loss function $\mathcal{L}$ versus the number of iterations
-  * Fig. 6(b) Normalized loss function $\mathcal{L}$ versus the decay parameter $\zeta$
+* Fig. 2. Comparison between (a) The proposed DFT codebook weighting scheme and (b) The conventional codebook scheme.
+* Fig. 3. Channel capacity C versus training overhead Q.
+  * Fig. 3(a) Perfect CSI;
+  * Fig. 3(b) Imperfect CSI.
+* Fig. 4(a) Channel capacity C versus total transmit power p~d~;
+* Fig. 4(b) Channel capacity C versus the number of RIS elements N. (Both with training overhead Q = 6.)
