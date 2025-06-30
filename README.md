@@ -22,5 +22,4 @@ This code provides the source files and generation codes of all the figure in th
 * Fig. 3. Channel capacity C versus training overhead Q.
   * Fig. 3(a) Perfect CSI;
   * Fig. 3(b) Imperfect CSI.
-* Fig. 4(a) Channel capacity C versus total transmit power p~d~;
-* Fig. 4(b) Channel capacity C versus the number of RIS elements N. (Both with training overhead Q = 6.)
+* Fig. 4 (a) Channel capacity C versus total transmit power p~d~; (b) Channel capacity C versus the number of RIS elements N. (Both with training overhead Q = 6.)
